@@ -1,6 +1,6 @@
 # Growth-Data-Analysis
 
-The notebook contains various analysis of users' interaction and purchase data of an e-commerce company and insights to help improve user retention and overall growth.
+The notebook contains various analysis on users' interaction and purchase data of a certain product in an e-commerce company and insights to help improve user retention and overall growth.
 
 ## Dataset
 The dataset contains 20,000 users’ interactions with a certain product of an e-commerce company. The columns in the dataset are as follows:
@@ -19,7 +19,7 @@ The dataset contains 20,000 users’ interactions with a certain product of an e
 - *monthly_revenue*: Average monthly revenue accumulated from the user
 - *churned*: Indicates if the user has churned (1 = User has churned, 0 = Still active)
 
-## Analysis
+## Data Analysis
 The notebook contains following analysis
 
 ### Data Exploration & Cleaning
@@ -41,7 +41,7 @@ The notebook contains following analysis
 ### Revenue & Upgrade Trends
 1. Percentage of users upgraded from Free to Pro
 2. Total monthly revenue from Pro users
-3. Which Pro plan (Basic, Standard, or Enterprise) contributes to the most revenue?
+3. Which Pro plan (Basic, Standard, or Enterprise) contributes to the most revenue
 4. How long it takes for Free users to upgrade based on country and engagement level
 
 ### Actionable Growth Recommendations
@@ -55,8 +55,8 @@ The notebook contains following analysis
 3. Three A/B test ideas that could help improve the conversion rate
 
 ### Growth Strategy & KPI Recommendations
-1. 3 key performance indicators (KPIs):
-2. 2 actionable growth strategies
+1. Three key performance indicators (KPIs)
+2. Two actionable growth strategies
 
 ### Data Storytelling & Visualization
-1. Dashboard creation with 3 insightful charts and graphs
+1. Dashboard creation with three insightful charts and graphs
