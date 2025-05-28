@@ -1,9 +1,9 @@
 # Growth-Data-Analysis
 
-The notebook contains various analysis on users' interaction and purchase data of a certain product in an e-commerce company and insights to help improve user retention and overall growth.
+The notebook contains various analysis on users' interaction and purchase data of a certain product on an e-commerce platform and insights to help improve user retention and overall growth.
 
 ## Dataset
-The dataset contains 20,000 users’ interactions with a certain product of an e-commerce company. The columns in the dataset are as follows:
+The dataset contains 20,000 users’ interactions with a certain product of an e-commerce website. The columns in the dataset are as follows:
 - *user_id*: Unique identifier for each user
 - *install_date*: Date when the user installed the product
 - *last_active_date*: Last recorded activity date of the user
